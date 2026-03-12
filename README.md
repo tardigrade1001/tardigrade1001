@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋 I'm tardigrade1001
 
-<!--
-**tardigrade1001/tardigrade1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently finishing my PhD in Nanotechnology —
+electrochemical sensing platforms for healthcare and food diagnostics
 
-Here are some ideas to get you started:
+🌱 Always learning something
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ I build tools when the right one doesn't exist —
+most repos here started as a personal problem that needed solving
+
+---
+
+### What I work on
+
+🤖 AI captioning pipelines — OpenRouter, Replicate, Mistral, with fallback logic and cost tracking  
+🎨 ComfyUI custom nodes for diffusion workflows  
+⚗️ Lab automation with Arduino for electrochemistry experiments  
+🖼️ Scientific visualization and journal cover art in Blender  
+🎌 JPop poster restoration — vector reconstruction, AI upscaling, typography rebuilding  
+📷 Photography  
+🧬 LoRA training workflows  
+
+---
+
+⚡ Fun fact: Username chosen as a kid for an indestructible microscopic animal. Still accurate.
