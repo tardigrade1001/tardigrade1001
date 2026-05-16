@@ -3,22 +3,28 @@
 🔭 Currently finishing my PhD in Nanotechnology —
 electrochemical sensing platforms for healthcare and food diagnostics
 
-🌱 Always learning something
+🌱 Currently learning: reinforcement learning, binary file format reverse engineering, and driving lessons
 
-🛠️ I build tools when the right one doesn't exist —
-most repos here started as a personal problem that needed solving
+🛠️ I build tools when the right one doesn't exist.
+Most repos here started as a personal problem that needed solving.
 
 ---
 
 ### What I work on
 
-🤖 AI captioning pipelines — OpenRouter, Replicate, Mistral, with fallback logic and cost tracking  
-🎨 ComfyUI custom nodes for diffusion workflows  
-⚗️ Lab automation with Arduino for electrochemistry experiments  
-🖼️ Scientific visualization and journal cover art in Blender  
-🎌 JPop poster restoration — vector reconstruction, AI upscaling, typography rebuilding  
-📷 Photography  
-🧬 LoRA training workflows  
+🔬 Open-source scientific instrument parsers — reverse-engineered proprietary binary formats for Keysight SMU and Hitachi UV-Vis/Fluorescence spectrophotometers
+
+🤖 AI captioning pipelines with OpenRouter, Replicate, and Mistral, with fallback logic and cost tracking
+
+🎨 ComfyUI custom nodes for diffusion workflows
+
+⚗️ Lab automation with Arduino for electrochemistry experiments
+
+🖼️ Scientific visualization and journal cover art in Blender
+
+🎌 JPop poster restoration — vector reconstruction, AI upscaling, typography rebuilding
+
+🧬 LoRA training workflows
 
 ---
 
