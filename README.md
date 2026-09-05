@@ -6,17 +6,19 @@ I build tools when the right one doesn't exist. Most of my projects begin with s
 
 My work connects laboratory instruments, Python software, scientific data, and computational workflows.
 
-### Scientific tools and workflows
+### Selected projects
 
-- [spectrex](https://github.com/tardigrade1001/spectrex) converts Hitachi UV-Vis and fluorescence binary files into CSV.
-- [ivex](https://github.com/tardigrade1001/ivex) converts Keysight B2900-series SMU files into CSV and plots, without the original vendor software.
-- Experiment automation with Python/VISA, Arduino, sensors and actuators.
-- Computational chemistry with ORCA/DFT, analysis pipelines, and research-data provenance.
-- Scientific visualisation and journal cover art in Blender.
+- [spectrex](https://github.com/tardigrade1001/spectrex) converts Hitachi UV-Vis and fluorescence binary files into CSV and quick-look plots.
+- [ivex](https://github.com/tardigrade1001/ivex) converts Keysight B2900-series SMU files into CSV and plots using Python alone.
+- [qrbeam](https://github.com/tardigrade1001/qr-file-transfer) transfers small files from an offline computer through animated QR codes, with checksum verification.
+- [Vehicle aerodynamics and pedestrian-gust modelling](https://github.com/tardigrade1001/autorickshaw-wake-analysis) uses Blender, OpenFOAM and Python in a reproducible CFD workflow.
+- [Hello! Project discography analysis](https://github.com/tardigrade1001/hello-project-discography-analysis) builds a provenance-tracked music dataset and uses controlled statistical analyses to examine 29 years of change.
+
+I also work on experiment automation with Python/VISA and Arduino, computational chemistry with ORCA/DFT, scientific visualisation in Blender, and research-data provenance.
 
 ### Beyond the lab
 
-I also build ComfyUI tools and image-captioning pipelines using existing models, and explore creative imaging, JPop poster restoration, and everyday computing problems.
+I build ComfyUI tools and image-captioning pipelines using existing models, and explore creative imaging, JPop poster restoration, and everyday computing problems.
 
 Currently learning: reinforcement learning, binary file-format reverse engineering, and driving.
 
