@@ -1,31 +1,25 @@
-## Hi there 👋 I'm tardigrade1001
+## Hi, I'm Uddipan.
 
-🔭 Currently finishing my PhD in Nanotechnology —
-electrochemical sensing platforms for healthcare and food diagnostics
+I'm finishing a PhD in Nanotechnology, working across electrochemical sensing, experimental materials science, and computational chemistry.
 
-🌱 Currently learning: reinforcement learning, binary file format reverse engineering, and driving lessons
+I build tools when the right one doesn't exist. Most of my projects begin with something practical: instrument data trapped in a proprietary format, an experiment that needs automation, or an analysis that needs to be reproducible.
 
-🛠️ I build tools when the right one doesn't exist.
-Most repos here started as a personal problem that needed solving.
+My work connects laboratory instruments, Python software, scientific data, and computational workflows.
 
----
+### Scientific tools and workflows
 
-### What I work on
+- [spectrex](https://github.com/tardigrade1001/spectrex) converts Hitachi UV-Vis and fluorescence binary files into CSV.
+- [ivex](https://github.com/tardigrade1001/ivex) converts Keysight B2900-series SMU files into CSV and plots, without the original vendor software.
+- Experiment automation with Python/VISA, Arduino, sensors and actuators.
+- Computational chemistry with ORCA/DFT, analysis pipelines, and research-data provenance.
+- Scientific visualisation and journal cover art in Blender.
 
-🔬 Open-source scientific instrument parsers — reverse-engineered proprietary binary formats for Keysight SMU and Hitachi UV-Vis/Fluorescence spectrophotometers
+### Beyond the lab
 
-🤖 AI captioning pipelines with OpenRouter, Replicate, and Mistral, with fallback logic and cost tracking
+I also build ComfyUI tools and image-captioning pipelines using existing models, and explore creative imaging, JPop poster restoration, and everyday computing problems.
 
-🎨 ComfyUI custom nodes for diffusion workflows
+Currently learning: reinforcement learning, binary file-format reverse engineering, and driving.
 
-⚗️ Lab automation with Arduino for electrochemistry experiments
+My username dates back to childhood: a small, remarkably resilient animal. Still a good mascot.
 
-🖼️ Scientific visualization and journal cover art in Blender
-
-🎌 JPop poster restoration — vector reconstruction, AI upscaling, typography rebuilding
-
-🧬 LoRA training workflows
-
----
-
-⚡ Fun fact: Username chosen as a kid for an indestructible microscopic animal. Still accurate.
+[Research publications](https://scholar.google.com/citations?user=y2lDpYYAAAAJ)
