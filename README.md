@@ -1,27 +1,70 @@
 ## Hi, I'm Uddipan.
 
-I'm finishing a PhD in Nanotechnology, working across electrochemical sensing, experimental materials science, and computational chemistry.
+I'm finishing a PhD in Nanotechnology, spanning electrochemical sensing,
+experimental materials science, scientific instrumentation, and computational
+chemistry.
 
-I build tools when the right one doesn't exist. Most of my projects begin with something practical: instrument data trapped in a proprietary format, an experiment that needs automation, or an analysis that needs to be reproducible.
+I tend to build when a research or everyday workflow hides too much: which
+particles entered a histogram, how an instrument encoded its measurements,
+which path through a flow field matters to a pedestrian, or what assumptions
+turned a collection of records into a conclusion. The outputs vary from small
+utilities to full empirical studies, but the recurring aim is the same: make
+the data accessible, preserve the decisions, and test what the result can
+actually support.
 
-My work connects laboratory instruments, Python software, scientific data, and computational workflows.
+### Laboratory measurement and scientific software
 
-### Selected projects
+- [TEM Particle Studio](https://github.com/tardigrade1001/tem-particle-studio)
+  turns scale-calibrated TEM particle measurement into a human-in-the-loop,
+  reviewable workflow. It retains contours, review decisions, settings, and
+  measurements, with synthetic ground-truth validation reported separately for
+  sizing and detection coverage.
+- [spectrex](https://github.com/tardigrade1001/spectrex) recovers spectra and
+  acquisition metadata from proprietary Hitachi UV-Vis and fluorescence files,
+  with reference exports included for verification.
+- [ivex](https://github.com/tardigrade1001/ivex) converts proprietary Keysight
+  B2900-series SMU files into portable CSV data and quick-look plots without the
+  original acquisition software.
 
-- [spectrex](https://github.com/tardigrade1001/spectrex) converts Hitachi UV-Vis and fluorescence binary files into CSV and quick-look plots.
-- [ivex](https://github.com/tardigrade1001/ivex) converts Keysight B2900-series SMU files into CSV and plots using Python alone.
-- [qrbeam](https://github.com/tardigrade1001/qr-file-transfer) transfers small files from an offline computer through animated QR codes, with checksum verification.
-- [Vehicle aerodynamics and pedestrian-gust modelling](https://github.com/tardigrade1001/autorickshaw-wake-analysis) uses Blender, OpenFOAM and Python in a reproducible CFD workflow.
-- [Hello! Project discography analysis](https://github.com/tardigrade1001/hello-project-discography-analysis) builds a provenance-tracked music dataset and uses controlled statistical analyses to examine 29 years of change.
+My doctoral work also includes Python/VISA and Arduino experiment automation,
+gas-handling and optical-actuation hardware, electrochemical sensing, and
+ORCA/DFT studies of doped Cu₃N systems, including benchmarking existing
+interatomic potentials such as CHGNet against DFT calculations.
 
-I also work on experiment automation with Python/VISA and Arduino, computational chemistry with ORCA/DFT, scientific visualisation in Blender, and research-data provenance.
+### Independent investigations
 
-### Beyond the lab
+- [Autorickshaw wake analysis](https://github.com/tardigrade1001/autorickshaw-wake-analysis)
+  uses Blender, OpenFOAM, and Python to compare four vehicle flows along the
+  diagonal path a pedestrian actually walks.
+- [Residential electricity and weather](https://github.com/tardigrade1001/residential-energy-weather-analysis)
+  combines a year of two-meter household electricity, attendance records, and
+  8,784 hourly weather observations to separate behavioural and environmental
+  signals, with interpolation and time-ordered tests reported distinctly.
+- [Hello! Project discography analysis](https://github.com/tardigrade1001/hello-project-discography-analysis)
+  builds a provenance-tracked dataset of 4,674 songs and examines 29 years of
+  change through controlled comparisons.
+- [Hello! Project career analysis](https://github.com/tardigrade1001/hello-project-career-analysis)
+  uses one 212-member dataset to study careers while treating figure design as
+  part of the analytical work rather than decoration.
 
-I build ComfyUI tools and image-captioning pipelines using existing models, and explore creative imaging, JPop poster restoration, and everyday computing problems.
+### Tools for constraints that bothered me
 
-Currently learning: reinforcement learning, binary file-format reverse engineering, and driving.
+- [qrbeam](https://github.com/tardigrade1001/qr-file-transfer) transfers small
+  files from an offline screen through animated QR codes with checksum
+  verification.
+- [DriveBridge](https://github.com/tardigrade1001/driveBridge) is a Windows tray
+  client around two-way Google Drive synchronisation, with live file watching,
+  conflict handling, and mass-deletion protection.
+- [CrashCourse](https://github.com/tardigrade1001/CrashCourse) is a custom
+  Gymnasium obstacle-avoidance environment and PPO study developed through
+  reproducible iterations and controlled evaluations.
 
-My username dates back to childhood: a small, remarkably resilient animal. Still a good mascot.
+I also make ComfyUI extensions, image-captioning utilities, scientific visuals,
+and art. These are not all the same kind of output, but they come from the same
+habit of following an interesting problem until there is something concrete,
+inspectable, and useful at the end.
 
 [Research publications](https://scholar.google.com/citations?user=y2lDpYYAAAAJ)
+
+My username dates back to childhood: a small, remarkably resilient animal.
+Still a good mascot.
