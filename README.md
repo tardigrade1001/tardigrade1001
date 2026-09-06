@@ -1,16 +1,19 @@
-## Hi, I'm Uddipan.
+## Uddipan Dasgupta
 
-I'm finishing a PhD in Nanotechnology, spanning electrochemical sensing,
-experimental materials science, scientific instrumentation, and computational
-chemistry.
+PhD researcher in Nanotechnology working across electrochemical sensing,
+experimental nanomaterials, scientific instrumentation, computational
+chemistry, and research software.
 
-I tend to build when a research or everyday workflow hides too much: which
-particles entered a histogram, how an instrument encoded its measurements,
-which path through a flow field matters to a pedestrian, or what assumptions
-turned a collection of records into a conclusion. The outputs vary from small
-utilities to full empirical studies, but the recurring aim is the same: make
-the data accessible, preserve the decisions, and test what the result can
-actually support.
+Doctoral research examines doped Cu₃N nanostructures through materials
+synthesis, electrochemical and gas sensing, custom experimental platforms, and
+ORCA/DFT calculations. Scientific software development supports the same
+research cycle: acquire measurements, recover inaccessible data, document
+analytical decisions, test uncertainty, and produce reproducible outputs.
+
+Independent projects extend this approach to fluid dynamics, energy data,
+reinforcement learning, cultural datasets, and creative software. Each project
+begins with a concrete question and develops through recorded data, explicit
+assumptions, validation, and usable output.
 
 ### Laboratory measurement and scientific software
 
@@ -23,10 +26,10 @@ actually support.
   acquisition metadata from proprietary Hitachi UV-Vis and fluorescence files,
   with reference exports included for verification.
 - [ivex](https://github.com/tardigrade1001/ivex) converts proprietary Keysight
-  B2900-series SMU files into portable CSV data and quick-look plots without the
-  original acquisition software.
+  B2900-series SMU files into portable CSV data and quick-look plots,
+  independently of the original acquisition software.
 
-My doctoral work also includes Python/VISA and Arduino experiment automation,
+Doctoral work also includes Python/VISA and Arduino experiment automation,
 gas-handling and optical-actuation hardware, electrochemical sensing, and
 ORCA/DFT studies of doped Cu₃N systems, including benchmarking existing
 interatomic potentials such as CHGNet against DFT calculations.
@@ -44,10 +47,10 @@ interatomic potentials such as CHGNet against DFT calculations.
   builds a provenance-tracked dataset of 4,674 songs and examines 29 years of
   change through controlled comparisons.
 - [Hello! Project career analysis](https://github.com/tardigrade1001/hello-project-career-analysis)
-  uses one 212-member dataset to study careers while treating figure design as
-  part of the analytical work rather than decoration.
+  uses one 212-member dataset to study careers, with figure design treated as
+  part of the analytical work.
 
-### Tools for constraints that bothered me
+### Practical and creative software
 
 - [qrbeam](https://github.com/tardigrade1001/qr-file-transfer) transfers small
   files from an offline screen through animated QR codes with checksum
@@ -58,13 +61,15 @@ interatomic potentials such as CHGNet against DFT calculations.
 - [CrashCourse](https://github.com/tardigrade1001/CrashCourse) is a custom
   Gymnasium obstacle-avoidance environment and PPO study developed through
   reproducible iterations and controlled evaluations.
+- [ComfyUI Unified Caption](https://github.com/tardigrade1001/ComfyUI-Unified-Caption)
+  provides multimodal image captioning through multiple hosted providers, with
+  cost estimation, retry handling, and configurable fallback behaviour.
 
-I also make ComfyUI extensions, image-captioning utilities, scientific visuals,
-and art. These are not all the same kind of output, but they come from the same
-habit of following an interesting problem until there is something concrete,
-inspectable, and useful at the end.
+Additional work includes ComfyUI extensions, image-captioning utilities,
+scientific visuals, and art. A shared practice connects these outputs: follow a
+question until the result becomes concrete, inspectable, and useful.
 
 [Research publications](https://scholar.google.com/citations?user=y2lDpYYAAAAJ)
 
-My username dates back to childhood: a small, remarkably resilient animal.
+The username dates back to childhood: a small, remarkably resilient animal.
 Still a good mascot.
